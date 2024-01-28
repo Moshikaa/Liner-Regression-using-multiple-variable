@@ -1,1 +1,1 @@
-# Liner-Regression-using-multiple-variable
+# Liner-Regression-using-multiple-features
